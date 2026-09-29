@@ -37,7 +37,7 @@
 ## 📊 GitHub 数据 / GitHub Stats
 
 <p align="center">
-  <img alt="Public Repos" src="https://img.shields.io/github/repositories/zzc874012?label=Repos&style=for-the-badge&color=2F81F7" />
+  <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzzc874012&color=2F81F7&style=for-the-badge" />
   <img alt="Followers" src="https://img.shields.io/github/followers/zzc874012?label=Followers&style=for-the-badge&color=2F81F7" />
   <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/zzc874012/zzc874012?label=Commits&style=for-the-badge&color=2F81F7" />
   <img alt="Stars" src="https://img.shields.io/github/stars/zzc874012?label=Stars&style=for-the-badge&color=2F81F7" />
