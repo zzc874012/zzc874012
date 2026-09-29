@@ -36,18 +36,26 @@
 
 ## 📊 GitHub 数据 / GitHub Stats
 
+<p align="center">
+  <img alt="Public Repos" src="https://img.shields.io/github/repositories/zzc874012?label=Repos&style=for-the-badge&color=2F81F7" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/zzc874012?label=Followers&style=for-the-badge&color=2F81F7" />
+  <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/zzc874012/zzc874012?label=Commits&style=for-the-badge&color=2F81F7" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/zzc874012?label=Stars&style=for-the-badge&color=2F81F7" />
+</p>
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zzc874012&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=586069&bg_color=00000000" alt="zzc874012's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzc874012&layout=compact&hide_border=true&title_color=2F81F7&text_color=586069&bg_color=00000000" alt="Top Languages" />
+  <img src="https://stats.justsong.cn/api/github?username=zzc874012&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=586069&bg_color=00000000" alt="zzc874012's GitHub stats" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zzc874012&hide_border=true&sideLabels=2F81F7&dates=586069&currStreakLabel=2F81F7&ring=2F81F7&fire=2F81F7&background=00000000" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zzc874012&no-frame=true&no-bg=true&margin-w=4&column=-1&theme=flat" alt="GitHub Trophies" />
-</div>
+### 🗓️ 贡献热力图 / Contribution Graph
+
+<a href="https://github.com/zzc874012">
+  <img width="100%" src="https://ghchart.rshah.org/2F81F7/zzc874012" alt="zzc874012's contribution graph" />
+</a>
 
 ---
 
